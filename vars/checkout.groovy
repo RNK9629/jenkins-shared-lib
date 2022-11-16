@@ -1,4 +1,4 @@
-def call(def usernameInputvalue)
+def call(def UsernameInputvalue)
 {
-  echo "Hi , My 1st jenkins shared lib demo"
+  echo "Hi , My 1st ${UsernameInputvalue}"
 }
